@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Directory Operation</title>
+</head>
+<body>
+    <h2>Directory Operation</h2>
+    <form action="zadanie3.php" method="post">
+        Path: <input type="text" name="path" required><br>
+        Directory Name: <input type="text" name="directory_name" required><br>
+        Operation: 
+        <select name="operation">
+            <option value="read">Read</option>
+            <option value="delete">Delete</option>
+            <option value="create">Create</option>
+        </select><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
