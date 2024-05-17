@@ -1,0 +1,5 @@
+http://stackoverflow.com/;Stack Overflow
+http://github.com/;GitHub
+http://wikipedia.org/;Wikipedia
+http://amazon.com/;Amazon
+http://twitter.com/;Twitter
